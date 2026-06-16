@@ -1,0 +1,3 @@
+# Escapethe6ix
+
+A housing matchmaking platform that connects people priced out of Southern Ontario with affordable land communities forming in Northern Ontario. Users pledge interest in a specific location, and once enough people commit, the community is triggered, unlocking developer investment and landowner partnerships so no one has to make the move alone. Every community is structured through a Community Land Trust to ensure affordability is locked in permanently. The platform serves three sides: residents looking for affordable housing, landowners with stranded assets they cannot monetize, and developers who need guaranteed demand before they build.
