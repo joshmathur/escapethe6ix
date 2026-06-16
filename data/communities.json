@@ -1,0 +1,200 @@
+[
+  {
+    "id": "community-north-bay-1",
+    "parcelId": "parcel-north-bay-1",
+    "name": "Lakeside Collective",
+    "threshold": 25,
+    "currentPledges": 14,
+    "estimatedMonthlyCost": 385,
+    "housingType": "Prefab",
+    "municipalPartner": "Municipality of Callander",
+    "services": ["Shared well water", "Community garden", "High-speed internet", "Snow removal co-op"],
+    "infrastructureScore": 68,
+    "discussion": [
+      {
+        "user": "Sarah M.",
+        "message": "Has anyone looked into the prefab options from Ontario manufacturers? I found a few under $80k.",
+        "timestamp": "2026-05-12T14:30:00Z"
+      },
+      {
+        "user": "James K.",
+        "message": "The road access looks good — only 2km from Highway 11. I drove out last weekend.",
+        "timestamp": "2026-05-14T09:15:00Z"
+      },
+      {
+        "user": "Priya R.",
+        "message": "What are the winter heating costs like in this area? Coming from Toronto I have no idea.",
+        "timestamp": "2026-05-18T16:45:00Z"
+      }
+    ],
+    "polls": [
+      {
+        "id": "poll-nb-1",
+        "question": "Preferred community layout?",
+        "options": ["Clustered around central hub", "Spread along lakeshore", "Mixed — hub plus satellite clusters"],
+        "votes": [8, 4, 6]
+      }
+    ]
+  },
+  {
+    "id": "community-north-bay-2",
+    "parcelId": "parcel-north-bay-2",
+    "name": "Forest Edge Commons",
+    "threshold": 20,
+    "currentPledges": 5,
+    "estimatedMonthlyCost": 410,
+    "housingType": "Tiny Home",
+    "municipalPartner": "Municipality of Callander",
+    "services": ["Off-grid solar option", "Shared composting", "Trail access"],
+    "infrastructureScore": 42,
+    "discussion": [
+      {
+        "user": "Alex T.",
+        "message": "The legal status is still unverified — anyone know the timeline on that?",
+        "timestamp": "2026-06-01T11:00:00Z"
+      }
+    ],
+    "polls": [
+      {
+        "id": "poll-nb-2",
+        "question": "Off-grid or grid-connected?",
+        "options": ["Full off-grid", "Grid with solar backup", "Full grid connection"],
+        "votes": [3, 7, 2]
+      }
+    ]
+  },
+  {
+    "id": "community-sudbury-1",
+    "parcelId": "parcel-sudbury-1",
+    "name": "Val Caron Village",
+    "threshold": 30,
+    "currentPledges": 26,
+    "estimatedMonthlyCost": 320,
+    "housingType": "Standard",
+    "municipalPartner": "City of Greater Sudbury",
+    "services": ["Municipal water", "Road maintenance", "School bus route", "Community centre access", "Transit connection to Sudbury"],
+    "infrastructureScore": 82,
+    "discussion": [
+      {
+        "user": "Maria L.",
+        "message": "We're at 26 pledges! Only 4 more to trigger the community. Spread the word!",
+        "timestamp": "2026-06-10T08:00:00Z"
+      },
+      {
+        "user": "David W.",
+        "message": "Greater Sudbury confirmed the land lease rate freeze. This is really happening.",
+        "timestamp": "2026-06-11T13:20:00Z"
+      },
+      {
+        "user": "Chen H.",
+        "message": "My family of 4 is in. Looking forward to the school bus route being confirmed.",
+        "timestamp": "2026-06-12T10:45:00Z"
+      }
+    ],
+    "polls": [
+      {
+        "id": "poll-sb-1",
+        "question": "Priority for first infrastructure build?",
+        "options": ["Road grading and gravel", "Water main extension", "Community building foundation"],
+        "votes": [12, 18, 8]
+      },
+      {
+        "id": "poll-sb-2",
+        "question": "Target move-in timeline?",
+        "options": ["Spring 2027", "Fall 2027", "Spring 2028"],
+        "votes": [15, 9, 4]
+      }
+    ]
+  },
+  {
+    "id": "community-sudbury-2",
+    "parcelId": "parcel-sudbury-2",
+    "name": "River Valley Cohousing",
+    "threshold": 18,
+    "currentPledges": 7,
+    "estimatedMonthlyCost": 395,
+    "housingType": "Prefab",
+    "municipalPartner": "City of Greater Sudbury",
+    "services": ["River access", "Shared workshop", "Community kitchen"],
+    "infrastructureScore": 55,
+    "discussion": [
+      {
+        "user": "Tom B.",
+        "message": "The Espanola area has great fishing. Could be a nice perk for weekend recreation.",
+        "timestamp": "2026-05-20T17:30:00Z"
+      }
+    ],
+    "polls": [
+      {
+        "id": "poll-sb-3",
+        "question": "Shared workshop priority tools?",
+        "options": ["Woodworking", "Metalworking", "Both equally"],
+        "votes": [5, 2, 8]
+      }
+    ]
+  },
+  {
+    "id": "community-sault-1",
+    "parcelId": "parcel-sault-1",
+    "name": "Highlands Cooperative",
+    "threshold": 22,
+    "currentPledges": 11,
+    "estimatedMonthlyCost": 340,
+    "housingType": "Standard",
+    "municipalPartner": "Township of Macdonald, Meredith and Aberdeen Additional",
+    "services": ["Shared septic system", "Firewood co-op", "Highland trail network"],
+    "infrastructureScore": 60,
+    "discussion": [
+      {
+        "user": "Rachel P.",
+        "message": "Thessalon is a charming small town. Good grocery store and medical clinic nearby.",
+        "timestamp": "2026-05-25T12:00:00Z"
+      },
+      {
+        "user": "Mike S.",
+        "message": "Anyone interested in a community-owned greenhouse for year-round growing?",
+        "timestamp": "2026-06-02T15:30:00Z"
+      }
+    ],
+    "polls": [
+      {
+        "id": "poll-ssm-1",
+        "question": "Greenhouse size preference?",
+        "options": ["Small — 500 sq ft", "Medium — 1200 sq ft", "Large — 2500 sq ft"],
+        "votes": [4, 9, 3]
+      }
+    ]
+  },
+  {
+    "id": "community-sault-2",
+    "parcelId": "parcel-sault-2",
+    "name": "Echo Bay Shores",
+    "threshold": 20,
+    "currentPledges": 22,
+    "estimatedMonthlyCost": 310,
+    "housingType": "Tiny Home",
+    "municipalPartner": "Township of Macdonald, Meredith and Aberdeen Additional",
+    "services": ["Waterfront access", "Dock sharing", "Municipal water", "Paved road access"],
+    "infrastructureScore": 90,
+    "discussion": [
+      {
+        "user": "Lisa F.",
+        "message": "Community triggered! Next step is the development agreement with the township.",
+        "timestamp": "2026-06-08T09:00:00Z"
+      },
+      {
+        "user": "Kevin O.",
+        "message": "Architect meetup scheduled for June 28. Check the events channel.",
+        "timestamp": "2026-06-09T14:15:00Z"
+      }
+    ],
+    "polls": [
+      {
+        "id": "poll-ssm-2",
+        "question": "Dock configuration?",
+        "options": ["Individual slips", "Shared floating dock", "Combination"],
+        "votes": [6, 10, 8]
+      }
+    ]
+  }
+]

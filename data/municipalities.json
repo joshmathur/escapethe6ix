@@ -1,0 +1,42 @@
+[
+  {
+    "id": "muni-north-bay",
+    "name": "Municipality of Callander",
+    "lat": 46.1781,
+    "lng": -79.3667,
+    "partnershipStatus": "interested",
+    "incentivesOffered": [
+      "Reduced development charges for affordable housing",
+      "Expedited building permit review",
+      "Municipal water hookup subsidy"
+    ],
+    "populationGrowthGoal": 500
+  },
+  {
+    "id": "muni-sudbury",
+    "name": "City of Greater Sudbury",
+    "lat": 46.4917,
+    "lng": -80.9930,
+    "partnershipStatus": "confirmed",
+    "incentivesOffered": [
+      "Land lease rate freeze for 10 years",
+      "Shared road maintenance agreement",
+      "Community centre access for residents",
+      "Property tax deferral for first 3 years"
+    ],
+    "populationGrowthGoal": 1200
+  },
+  {
+    "id": "muni-sault",
+    "name": "Township of Macdonald, Meredith and Aberdeen Additional",
+    "lat": 46.4833,
+    "lng": -84.0833,
+    "partnershipStatus": "confirmed",
+    "incentivesOffered": [
+      "Waived rezoning application fees",
+      "Municipal septic inspection support",
+      "Community garden land allocation"
+    ],
+    "populationGrowthGoal": 300
+  }
+]
